@@ -1,0 +1,9 @@
+{
+  "mods": [
+  "example-mods/welcome-text.js"
+
+  ],
+  "bots": {
+    "simplebot": "node_modules/@screeps/simplebot/src"
+  }
+}
